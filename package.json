@@ -1,9 +1,9 @@
 {
-    "name": "tharun",
+    "name": "tharun369",
     "version": "1.0.0",
     "description": "get to know tharun via npx tharun",
     "bin": {
-        "tharun": "index.js"
+        "tharun369": "index.js"
     },
     "dependencies": {
         "cli-welcome": "^2.2.2"
