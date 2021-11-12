@@ -1,6 +1,6 @@
 {
     "name": "tharun369",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "get to know tharun via npx tharun",
     "bin": {
         "tharun369": "index.js"
@@ -14,11 +14,11 @@
         "peter"
     ],
     "license": "UNLICENCED",
-    "main":"index.js",
-    "repository":"tharunpeter369/some",
-    "author":{
-        "name":"tharun peter",
-        "email":"tharunpeter369@gmail.com",
-        "url":"https://tharunpeter369.github.io/personal-website/"
+    "main": "index.js",
+    "repository": "tharunpeter369/some",
+    "author": {
+        "name": "tharun peter",
+        "email": "tharunpeter369@gmail.com",
+        "url": "https://tharunpeter369.github.io/personal-website/"
     }
 }
