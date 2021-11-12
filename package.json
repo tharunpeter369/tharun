@@ -1,6 +1,6 @@
 {
     "name": "tharun369",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "get to know tharun via npx tharun",
     "bin": {
         "tharun369": "index.js"
