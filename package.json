@@ -1,10 +1,11 @@
 {
     "name": "tharun",
     "version": "1.0.0",
+    "description": "get to know tharun via npx tharun",
     "bin": {
         "tharun": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
+        "cli-welcome": "^2.2.2"
     }
 }
