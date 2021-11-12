@@ -1,11 +1,24 @@
 {
     "name": "tharun369",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "get to know tharun via npx tharun",
     "bin": {
         "tharun369": "index.js"
     },
     "dependencies": {
         "cli-welcome": "^2.2.2"
+    },
+    "keywords": [
+        "tharun peter",
+        "tharun",
+        "peter"
+    ],
+    "license": "UNLICENCED",
+    "main":"index.js",
+    "repository":"tharunpeter369/some",
+    "author":{
+        "name":"tharun peter",
+        "email":"tharunpeter369@gmail.com",
+        "url":"https://tharunpeter369.github.io/personal-website/"
     }
 }
