@@ -8,6 +8,15 @@ const log = console.log;
 
 const Github = chalk.hex(`89ba16`).bold.inverse;
 
+//Alerts.
+// const logSymbols = require('log-symbols');
+// var Sym = require('log-symbols');
+const success = chalk.green;
+const info = chalk.keyword(`blue`)
+const warning = chalk.keyword(`orange`)
+const error = chalk.keyword(`red`).bold;
+
+
 // clearConsole();
 
 // console.log(`
@@ -30,11 +39,17 @@ welcome({
  
 log(`
 ${chalk.bgBlue(` Tharun Peter `)}
-
 ${chalk.hex(`00bce4`).italic.dim(`I am a self-taught Full Stack Web-Developer from Ernalulam, Kerala, India.`)}
 
 ${Github(` Github `)}: ${chalk.blue(`https://github.com/tharunpeter369`)}
-
 `)
-
 // log(chalk.green.underline(`This is green`))
+log(`
+${success(` SUCCESS: `)}  Thanks for checking out my CLI.
+
+ ${info(` INFO: `)}  I'am creating a CLI for you.
+
+ ${warning(` WARNING: `)}  This is a warning.
+
+ ${error(` ERROR:`)}  Am on vecation contact me on next week.
+`)
